@@ -2875,3 +2875,33 @@ Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 00:14:10.104
 !MESSAGE executing callback sts4.classpath.hwTZWjKY SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 00:26:10.816
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 00:26:10.829
+!MESSAGE classpath=92 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 00:26:10.855
+!MESSAGE buffering callback sts4.classpath.hwTZWjKY DemoGitHub false 92
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 00:26:10.856
+!MESSAGE executing callback sts4.classpath.hwTZWjKY 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 00:26:10.994
+!MESSAGE executing callback sts4.classpath.hwTZWjKY SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 00:26:11.515
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 00:26:11.585
+!MESSAGE classpath=92 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 00:26:11.592
+!MESSAGE buffering callback sts4.classpath.hwTZWjKY DemoGitHub false 92
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 00:26:11.593
+!MESSAGE executing callback sts4.classpath.hwTZWjKY 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 00:26:11.810
+!MESSAGE executing callback sts4.classpath.hwTZWjKY SUCCESS [done]
